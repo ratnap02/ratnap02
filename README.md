@@ -23,7 +23,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Shell Scripting](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/SAS-B34936?style=for-the-badge&logo=sas&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-B34936?style=for-the-badge&logo=sas&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-4936b3?style=for-the-badge&logo=sas&logoColor=white)
 
 
 ## 🛠️ Methodologies
