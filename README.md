@@ -15,7 +15,7 @@
 
 </div>
 
-## 💻 Tech Stack
+## 💻 Languages
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
